@@ -8,5 +8,6 @@ Ice cream
 Eggs
 Rice Crispies
 Snacks
+Candy
 
 

@@ -10,3 +10,5 @@ Eggs
 Party hats
 Snacks
 Napkins
+Cups
+Plates

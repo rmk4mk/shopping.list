@@ -9,5 +9,6 @@ Eggs
 Rice Crispies
 Snacks
 Candy
+Chocolate
 
 
